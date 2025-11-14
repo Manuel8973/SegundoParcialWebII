@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\services\\tareaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:services\\tareaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\services\\prioridadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:services\\prioridadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\services\\miembroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:services\\miembroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\models\\dtos\\updateprioridaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\dtos\\updateprioridaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\models\\dtos\\updatemiembrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\dtos\\updatemiembrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\models\\dtos\\createtareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\dtos\\createtareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\models\\dtos\\createprioridaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\dtos\\createprioridaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\models\\dtos\\createmiembrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\dtos\\createmiembrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\models\\dtos\\updatetareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\dtos\\updatetareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\models\\enums\\rolmiembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\enums\\rolmiembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\models\\enums\\nombreprioridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\enums\\nombreprioridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\models\\enums\\estadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\enums\\estadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|d:\\webapi-claude-project-modifications-017jss98p9hgh12i8zfkcvuf\\webapi1\\models\\prioridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD945C4-7A92-4654-88F0-8BFFF3A884C5}|WebAPI1.csproj|solutionrelative:models\\prioridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TareaService.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Services\\TareaService.cs",
+              "RelativeDocumentMoniker": "Services\\TareaService.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Services\\TareaService.cs",
+              "RelativeToolTip": "Services\\TareaService.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAuwKIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:02:30.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrioridadService.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Services\\PrioridadService.cs",
+              "RelativeDocumentMoniker": "Services\\PrioridadService.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Services\\PrioridadService.cs",
+              "RelativeToolTip": "Services\\PrioridadService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwFwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:02:06.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiembroService.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Services\\MiembroService.cs",
+              "RelativeDocumentMoniker": "Services\\MiembroService.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Services\\MiembroService.cs",
+              "RelativeToolTip": "Services\\MiembroService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:01:48.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:01:21.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateTareaDto.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\DTOs\\UpdateTareaDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UpdateTareaDto.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\DTOs\\UpdateTareaDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\UpdateTareaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:01:18.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdatePrioridadDto.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\DTOs\\UpdatePrioridadDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UpdatePrioridadDto.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\DTOs\\UpdatePrioridadDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\UpdatePrioridadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:01:17.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateMiembroDto.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\DTOs\\UpdateMiembroDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UpdateMiembroDto.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\DTOs\\UpdateMiembroDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\UpdateMiembroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:01:17.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTareaDto.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\DTOs\\CreateTareaDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CreateTareaDto.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\DTOs\\CreateTareaDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\CreateTareaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:01:16.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePrioridadDto.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\DTOs\\CreatePrioridadDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CreatePrioridadDto.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\DTOs\\CreatePrioridadDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\CreatePrioridadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:01:15.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateMiembroDto.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\DTOs\\CreateMiembroDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CreateMiembroDto.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\DTOs\\CreateMiembroDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\CreateMiembroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:01:14.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RolMiembro.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\Enums\\RolMiembro.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\RolMiembro.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\Enums\\RolMiembro.cs",
+              "RelativeToolTip": "Models\\Enums\\RolMiembro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:01:10.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Miembro.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\Miembro.cs",
+              "RelativeDocumentMoniker": "Models\\Miembro.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\Miembro.cs",
+              "RelativeToolTip": "Models\\Miembro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:00:45.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NombrePrioridad.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\Enums\\NombrePrioridad.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\NombrePrioridad.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\Enums\\NombrePrioridad.cs",
+              "RelativeToolTip": "Models\\Enums\\NombrePrioridad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:01:08.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EstadoTarea.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\Enums\\EstadoTarea.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\EstadoTarea.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\Enums\\EstadoTarea.cs",
+              "RelativeToolTip": "Models\\Enums\\EstadoTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:01:07.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\Tarea.cs",
+              "RelativeDocumentMoniker": "Models\\Tarea.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\Tarea.cs",
+              "RelativeToolTip": "Models\\Tarea.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:00:56.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Prioridad.cs",
+              "DocumentMoniker": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\Prioridad.cs",
+              "RelativeDocumentMoniker": "Models\\Prioridad.cs",
+              "ToolTip": "D:\\WebApi-claude-project-modifications-017Jss98P9hgh12i8zfkCVuf\\WebAPI1\\Models\\Prioridad.cs",
+              "RelativeToolTip": "Models\\Prioridad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:00:52.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
